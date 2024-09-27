@@ -1,0 +1,3 @@
+# Ignore environment variables and Python virtual environment
+.env
+/backend/venv/
