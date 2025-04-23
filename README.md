@@ -14,8 +14,6 @@ A real-time **Weather Dashboard** that pulls live data from the [OpenWeatherMap 
 
 - **Skills Demonstrated**: 
   - REST API Integration
-  - Frontend development with React
-  - Data visualization with Chart.js/D3.js
   - OpenWeatherMap API
 
 ## Screenshots
@@ -38,6 +36,8 @@ A real-time **Weather Dashboard** that pulls live data from the [OpenWeatherMap 
 
 ## Future Enhancements
     
+- Frontend development with React
+- Data visualization with Chart.js/D3.js
 - Adding weather forecasts for the next few days.
 - Using geolocation to automatically detect the user's location.
     
